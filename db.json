@@ -1,0 +1,31 @@
+{
+    "students": [
+        {
+            "id": 1,
+            "firstName": "Cris",
+            "middleName": "Evangelista",
+            "lastName": "Tapic",
+            "suffix" : "",
+            "studentNumber: "2020278501"
+        },
+
+        {
+            "id": 2,
+            "firstName": "Elaine Catherine",
+            "middleName": "Flores",
+            "lastName": "Callope",
+            "suffix" : "",
+            "studentNumber: "2020283741"
+        },
+
+        {
+            "id": 3,
+            "firstName": "Eloisa Marie",
+            "middleName": "De Castro",
+            "lastName": "Escal",
+            "suffix" : "",
+            "studentNumber: "2020279851"
+        }
+        
+    ]
+}
